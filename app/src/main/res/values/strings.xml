@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">meet12_practice</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recycler_view_label">Данные в Shared Preferences:</string>
+    <string name="surname_label">Фамилия: </string>
+    <string name="name_label">Имя: </string>
+    <string name="patronymic_label">Отчество: </string>
+    <string name="salary_label">Оклад: </string>
 </resources>
